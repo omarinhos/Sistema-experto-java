@@ -1,0 +1,14 @@
+Apellidos - Nombres - Edad - Porcentaje - Tiene Diabetes - Fecha
+
+Mariños - Omar - 20 - 65% - Si - Thu Jul 22 10:19:25 COT 2021
+:: RESPUESTAS:: 
+Con frecuencia
+En ocasiones
+Siempre
+Casi siempre
+En ocasiones
+Con frecuencia
+En ocasiones
+Siempre
+------------------------------------------------------------
+
